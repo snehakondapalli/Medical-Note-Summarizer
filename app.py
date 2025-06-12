@@ -105,6 +105,7 @@ def summarize_by_unique_id(patient_data_map, unique_id):
 st.set_page_config(page_title="Medical Note Summarizer", layout="wide")
 
 st.title("Medical Note Summarizer")
+st.write("This application provides concise summaries of medical notes using advanced language models.")
 st.markdown("Select a patient from the dropdown to retrieve and summarize their medical notes.")
 
 # Model selection using radio buttons
