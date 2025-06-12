@@ -2,7 +2,11 @@
 
 This project is an AI-powered clinical note summarizer that leverages large language models (LLMs) via the **Groq API** to generate concise, physician-friendly summaries from unstructured patient notes and structured encounter data.
 
+
+
 ---
+
+https://github.com/user-attachments/assets/d31e3489-1d2e-47bf-8ff9-ebcc74dfc31e
 
 ## 🚀 Features
 
