@@ -4,6 +4,8 @@ This project is an AI-powered clinical note summarizer that leverages large lang
 
 https://github.com/user-attachments/assets/2c9a8ef3-211c-46e3-83bd-7d47f1cf440b
 
+Click here: https://medical-note-summarizer-dyhyy2yf3dbg5dr6dv5lqz.streamlit.app
+
 ---
 
 ## 🚀 Features
